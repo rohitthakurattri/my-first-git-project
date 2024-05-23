@@ -1,0 +1,2 @@
+my name is rohit  thakur.
+i just test and learn about how to setup git.
