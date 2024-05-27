@@ -4,3 +4,6 @@ i just test and learn about how to setup git.
 my add new changes in this branch
 
 add more code in this branch
+
+
+added my name in this file
